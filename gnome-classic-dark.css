@@ -7,7 +7,7 @@
 
 #panel {
     background-color: #3F4747;
-    color: #ccc;
+    color: #fff;
     /*background-gradient-direction: vertical;
     background-gradient-end: #373737;*/
     border-top-color: #111; /* we don't support non-uniform border-colors and
@@ -55,7 +55,7 @@
 }
 
 .panel-button {
-    color: #ccc; 
+    color: #fff; 
     -natural-hpadding: 6px !important;
     -minimum-hpadding: 3px !important;
   }
@@ -67,7 +67,7 @@
   #panel:overview .panel-button,
   #panel.lock-screen .panel-button,
   #panel.unlock-screen .panel-button {
-    color: #ccc !important;
+    color: #fff !important;
   }
 
   .panel-button:hover {
@@ -127,7 +127,7 @@
     -arrow-border-width: 1px !important;
     -arrow-border-color: #111 !important;
     -arrow-border-radius: 3px !important;
-    color: #ccc !important;
+    color: #fff !important;
     -arrow-base: 11px !important;
     -arrow-rise: 5px !important;
 }
@@ -135,12 +135,12 @@
   .popup-combo-menu {
     background-color: #3F4747 !important;
     border: 1px solid #111 !important;
-    color: #ccc !important;
+    color: #fff !important;
   }
 
   .popup-menu-item:active {
    background-color: #387CC4 !important; 
-   color: #ccc !important;
+   color: #fff !important;
   }
 
   .popup-menu-item:insensitive {
@@ -157,16 +157,16 @@
   }
 
   .popup-menu-item:hover .popup-status-menu-item {
-    color: #ccc;
+    color: #fff;
   }
 
   .popup-subtitle-menu-item, .popup-subtitle-menu-item:insensitive {
-    color: #ccc;
+    color: #fff;
   }
 
   .popup-submenu-menu-item:open {
     background-color: #444;
-    color: #ccc;
+    color: #fff;
   }
 
   .popup-sub-menu {
@@ -259,7 +259,7 @@
 }
 
 .popup-menu-icon {
-    color: #ccc !important;
+    color: #fff !important;
 }
 
 /* ON OFF switch */
@@ -283,7 +283,7 @@
 }
 
 .system-menu-action {
-    color: #ccc !important;
+    color: #fff !important;
 }
 
 .system-menu-action:hover,
